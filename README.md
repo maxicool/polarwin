@@ -1,2 +1,2 @@
 # polarwin
-company staff
+company stuff
